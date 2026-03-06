@@ -157,7 +157,6 @@ nav button, .auth-btn {
   top: 50%;   /* 위에서 50% */
   transform: translate(-50%, -50%); /* 수직, 수평 가운데 정렬 */
   text-align: center; 
-  width: 90%;
 }
 .header-content h2 { 
   font-size: 60px;  /* 글자 크기 */
@@ -466,4 +465,5 @@ footer {
     font-size: 18px;
     margin-bottom: 20px;
   }
+
 }
